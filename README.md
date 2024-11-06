@@ -32,5 +32,4 @@
 - VS Code
 - Git, GitHub
 - Canva, Figma
----
 
