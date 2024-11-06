@@ -25,7 +25,6 @@
   - Node.js, Express.js
 - **Databases:** 
   - SQL, MongoDB
-  - 
  ### **Supervised Machine Learning**
  
   
